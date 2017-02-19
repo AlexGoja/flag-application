@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flags</string>
+    <string name="capital">Capital: %1$s</string>
+    <string name="population">Population: %1$s</string>
+</resources>
